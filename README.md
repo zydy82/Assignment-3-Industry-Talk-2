@@ -23,8 +23,11 @@
   - Include page numbers on each page.  
   - Creative and visually appealing design.  
 - **Resources:**
-  - [Academic Phrasebank – The University of Manchester](#)  
-  - [How to write in an academic style – StudySkills@Sheffield](#)
+  - En Mohd Hakimi Iqmall (Pegawai Teknologi Maklumat UTM Digital) 
+  , and En Nik Mohd Habibullah (Ketua Pegawai eksekutif Micro 
+  Semiconductor Sdn Bhd), “Designing success from graphic 
+  multimedia to leading projects and Preparing for Entreprenuership” 
+  UTM Johor Bharu, December 2024. 
 - **Team Members** (listed on the poster):  
   - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
   - SUMATHI KESAVAN | Matric Card: [SX212327ECJHF03]
